@@ -20,7 +20,7 @@ from core import (
 
 REPO = """
 👨‍💻**Navya Music Player**👨‍💻
-- Repo: [GitHub](https://github.com/NAVYA-DEVELOPER/)
+- Repo: [GitHub](https://github.com/NAVYA-DEVELOPER/MUSIC-OP)
 - ⚜ [Owner](https://t.me/WTF_NAVYA) ⚜
 """
 
