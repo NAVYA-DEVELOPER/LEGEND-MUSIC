@@ -1,9 +1,9 @@
-## LEGEND MUSIC USERBOT 
+## NAVYA MUSIC USERBOT
 
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-- [![Deploy](https://te.legra.ph/file/5532de782efaf0acfe7c3.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://telegra.ph/file/6623750698d68f27b71f1.jpg)](https://heroku.com/deploy/)
 
 
 -------------
